@@ -19,7 +19,7 @@
 <p>I build complete products, from the database to the app store: web apps, Android apps and the APIs behind them. 5+ years building software professionally, nearly 5 of them in TypeScript.</p>
 
 <ul>
-  <li>🔌 Strongest at <b>connecting systems</b>: ERP and payment integrations, webhooks, WhatsApp bots and typed SDKs for third-party APIs</li>
+  <li>🧩 End-to-end products: <b>admin panels, dashboards, auth</b> and WhatsApp bots on webhooks</li>
   <li>📱 Shipping web + mobile from one backend with <b>React, Expo and Bun</b></li>
   <li>🇧🇷 Portuguese (native) · 🇺🇸 English (professional, async-friendly)</li>
 </ul>
